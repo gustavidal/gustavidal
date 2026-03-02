@@ -1,24 +1,7 @@
-<style>
-  * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  }
-
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  ul, li, ol {
-    list-style: none;
-  }
-</style>
-
 <h1 align="center">Olá 👋, eu sou o Gustavo Vidal</h1>
 <h3 align="center">Um estudante de Desenvolvimento de Sistemas do SENAI Jandira</h3>
 
-<p align="center">🔭 Estou atualmente aprendendo a [usar JavaScript com Node.js para Back-End](https://github.com/gustavidal/anotacoes-back-end)</p>
+<p align="center">🔭 Estou atualmente aprendendo a </p>[usar JavaScript com Node.js para Back-End](https://github.com/gustavidal/anotacoes-back-end)
 
 <h3 align="center">Minhas redes:</h3>
 <p align="center">
