@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo Vidal</h1>
 <h3 align="center">Um estudante de Desenvolvimento de Sistemas do SENAI Jandira</h3>
 
-<p align="center">🔭 Estou atualmente aprendendo a </p> [usar JavaScript com Node.js para Back-End](https://github.com/gustavidal/anotacoes-back-end)
-
 <h3 align="center">Minhas redes:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/gustavvidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavvidal" height="30" width="40" /></a>
