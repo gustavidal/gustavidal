@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, eu sou o Gustavo Vidal</h1>
-<h3 align="center">Um estudante de Desenvolvimento de Sistemas do SENAI Jandira</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Vidal;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+systems+development+at+SENAI;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<h3 align="center">Minhas redes:</h3>
+<h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gustavvidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavvidal" height="30" width="40" /></a>
-<a href="https://instagram.com/gustavv.idal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavv.idal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gustavvidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavvidal" height="30" width="40" /></a>
+  <img width="20"/>
+  <a href="https://instagram.com/gustavv.idal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavv.idal" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<h3 align="center">Linguagens e ferramentas:</h3>
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img width="20"/>
