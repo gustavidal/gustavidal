@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020202&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1a44&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=020202&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Gustavo+Vidal;Eu+tenho+17+anos;Eu+sou+de+Jandira,+SP;Eu+estudo+Desenvolvimento+de+Sistemas+no+SENAI;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1d1a44&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Gustavo+Vidal;Eu+tenho+17+anos;Eu+sou+de+Jandira,+SP;Eu+estudo+Desenvolvimento+de+Sistemas+no+SENAI;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
@@ -30,4 +30,4 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020202&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1a44&height=120&section=footer"/>
